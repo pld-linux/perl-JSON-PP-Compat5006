@@ -4,7 +4,6 @@
 
 %define		pdir	JSON
 %define		pnam	PP-Compat5006
-%include	/usr/lib/rpm/macros.perl
 Summary:	JSON::PP::Compat5006 - Helper module in using JSON::PP in Perl 5.6
 Name:		perl-JSON-PP-Compat5006
 Version:	1.09
