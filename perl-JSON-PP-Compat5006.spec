@@ -7,7 +7,7 @@
 Summary:	JSON::PP::Compat5006 - Helper module in using JSON::PP in Perl 5.6
 Name:		perl-JSON-PP-Compat5006
 Version:	1.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
